@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.paginator {
+  display: inline-block;
+}
+
+.navigation {
+  padding: 10px;
+  font-size: 18px;
+}
+
+.arrow {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  border-radius: 20px;
+  overflow: hidden;
+  cursor: pointer;
+}
