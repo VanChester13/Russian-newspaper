@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Russian-newspaper/static/css/main.9d9d9668.css",
-    "main.js": "/Russian-newspaper/static/js/main.8c3ca419.js",
+    "main.js": "/Russian-newspaper/static/js/main.ebb753cd.js",
     "index.html": "/Russian-newspaper/index.html",
     "main.9d9d9668.css.map": "/Russian-newspaper/static/css/main.9d9d9668.css.map",
-    "main.8c3ca419.js.map": "/Russian-newspaper/static/js/main.8c3ca419.js.map"
+    "main.ebb753cd.js.map": "/Russian-newspaper/static/js/main.ebb753cd.js.map"
   },
   "entrypoints": [
     "static/css/main.9d9d9668.css",
-    "static/js/main.8c3ca419.js"
+    "static/js/main.ebb753cd.js"
   ]
 }
